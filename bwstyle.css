@@ -149,10 +149,8 @@ main {
 }
 
 .flex-container {
-  background-color: red;
+  background-color: rgba(0, 255, 0, 0.5); /* changed from red per assignment step 18 */
   padding: 1%;
   display: flex;
   flex-wrap: wrap;
 }
-
-
